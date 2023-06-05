@@ -1,0 +1,2 @@
+KEYVAULT_NAME = "INSERT_AZURE_KEYVAULT_INSTANCE_NAME"
+URL = "https://www.upwork.com/ab/account-security/login"
